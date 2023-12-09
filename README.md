@@ -6,8 +6,8 @@
 
 项目渲染图：
 
-![image-20231209144944012](https://github.com/DailyNoBug/StableX/pic/pic1.PNG)
+![image-20231209144944012](https://github.com/DailyNoBug/StableX/blob/main/pic/e594816d-c78c-46df-843f-ee8b5b36c936.PNG)
 
-![image-20231209144944013](https://github.com/DailyNoBug/StableX/pic/pic2.PNG)
+![image-20231209144944013](https://github.com/DailyNoBug/StableX/blob/main/pic/_2023-Oct-13_03-56-09AM-000_CustomizedView9576349079.png)
 
 项目仍在改进迭代中.....
